@@ -1,2 +1,5 @@
-# Ubuntu-ARM
-这是一个Linux开发板搭建Ubuntu-base指南
+## Ubuntu-ARM
+> 注: 这里暂时**只展示**自己`构建`的uboot、**kernel**、rootfs、dtb、及自己编写的驱动展示。
+
+**1.构建的`Ubuntu-base`根文件系统**
+
